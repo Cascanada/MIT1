@@ -1,4 +1,5 @@
 # Marc notes on the disorganized handyman
+# Trying a change to test use of github and pycharm!
 
 # problem of n + (n-1) + (n-2) ... +1 = n(n+1)/2
 
